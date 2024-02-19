@@ -169,12 +169,8 @@ border-bottom: 1px solid #e7e9fc;
 }
 .advantages-list-item {
     width: calc((100% - 72px) / 4);
-    margin-right: 24px;
 }
 
-.advantages-list-item-last {
-    margin-right: 0;
-}
 .advantages-list-title {
         font-weight: 500;
         font-size: 20px;
@@ -244,8 +240,8 @@ border-bottom: 1px solid #e7e9fc;
         color: #2e2f42;
 }
 .portfolio {
-    padding-top: 60PX;
-    padding-bottom: 60px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 .portfolio-list {
     display: flex;
