@@ -207,7 +207,7 @@ border-bottom: 1px solid #e7e9fc;
 }
 .team-list {
     display: flex;
-    column-gap: 24px;
+    gap: 24px;
 }
 .team-list-item {
     background-color: #FFFFFF;
@@ -225,6 +225,7 @@ border-bottom: 1px solid #e7e9fc;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        margin-bottom: 8px;
         
 }
 .team-list-text {
