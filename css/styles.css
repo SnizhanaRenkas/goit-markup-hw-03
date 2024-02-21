@@ -53,7 +53,6 @@ border-bottom: 1px solid #e7e9fc;
     
 }
 .logo {
-
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -119,8 +118,6 @@ border-bottom: 1px solid #e7e9fc;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
-        padding-top: 191px;
-        padding-bottom: 289px;
 }
 .order-service-btn {
             font-weight: 500;
@@ -163,8 +160,6 @@ border-bottom: 1px solid #e7e9fc;
 }
 .advantages-list {
     display: flex;
-    margin-top: 120px;
-    margin-bottom: 120px;
     gap: 24px;
 }
 .advantages-list-item {
@@ -284,7 +279,7 @@ border-bottom: 1px solid #e7e9fc;
 .text-color-footer {
     color: #f4f4fd;
 }
-.logo {
+.logo-footer {
     display: inline-block;
     margin-bottom: 16px;
 }
